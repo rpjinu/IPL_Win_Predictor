@@ -24,18 +24,10 @@ This project aims to predict the outcome of IPL matches using a machine learning
 5. [Web App Deployment](#web-app-deployment)
 6. [Heroku Deployment](#heroku-deployment)
 7. [Usage](#usage)
-8. [License](#license)
-9. [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 
 The IPL Win Prediction project predicts the outcome of cricket matches based on several features such as the batting team, bowling team, current run rate (CRR), required run rate (RRR), and others. The model is built using Logistic Regression, and the web application is developed using Streamlit and deployed on Heroku.
 
-## Installation
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/ipl-win-prediction.git
-cd ipl-win-prediction
 
