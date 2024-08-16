@@ -1,5 +1,9 @@
 # IPL_Win_Predictor
 whole project analysis ,building model and deployment
+#Ipl LOgo
+
+<img src="https://github.com/rpjinu/IPL_Win_Predictor/blob/main/ipl_logo.png" width="900">
+
 ## Images Deploment
 Include images or screenshots of the application and visualizations.
 
